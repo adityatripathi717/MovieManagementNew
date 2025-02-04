@@ -1,0 +1,12 @@
+C:\Users\aditya_tripathi\source\MovieManagement\MovieManagementSystem.DataAccess\bin\Debug\net8.0\MovieManagementSystem.DataAccess.deps.json
+C:\Users\aditya_tripathi\source\MovieManagement\MovieManagementSystem.DataAccess\bin\Debug\net8.0\MovieManagementSystem.DataAccess.dll
+C:\Users\aditya_tripathi\source\MovieManagement\MovieManagementSystem.DataAccess\bin\Debug\net8.0\MovieManagementSystem.DataAccess.pdb
+C:\Users\aditya_tripathi\source\MovieManagement\MovieManagementSystem.DataAccess\obj\Debug\net8.0\MovieManagementSystem.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aditya_tripathi\source\MovieManagement\MovieManagementSystem.DataAccess\obj\Debug\net8.0\MovieManagementSystem.DataAccess.AssemblyInfoInputs.cache
+C:\Users\aditya_tripathi\source\MovieManagement\MovieManagementSystem.DataAccess\obj\Debug\net8.0\MovieManagementSystem.DataAccess.AssemblyInfo.cs
+C:\Users\aditya_tripathi\source\MovieManagement\MovieManagementSystem.DataAccess\obj\Debug\net8.0\MovieManagementSystem.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\aditya_tripathi\source\MovieManagement\MovieManagementSystem.DataAccess\obj\Debug\net8.0\MovieManagementSystem.DataAccess.dll
+C:\Users\aditya_tripathi\source\MovieManagement\MovieManagementSystem.DataAccess\obj\Debug\net8.0\refint\MovieManagementSystem.DataAccess.dll
+C:\Users\aditya_tripathi\source\MovieManagement\MovieManagementSystem.DataAccess\obj\Debug\net8.0\MovieManagementSystem.DataAccess.pdb
+C:\Users\aditya_tripathi\source\MovieManagement\MovieManagementSystem.DataAccess\obj\Debug\net8.0\ref\MovieManagementSystem.DataAccess.dll
+C:\Users\aditya_tripathi\source\MovieManagement\MovieManagementSystem.DataAccess\obj\Debug\net8.0\MovieManagementSystem.DataAccess.csproj.AssemblyReference.cache

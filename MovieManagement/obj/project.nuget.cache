@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8NytrT97Qqg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aditya_tripathi\\source\\MovieManagement\\MovieManagement\\MovieManagement.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aditya_tripathi\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
